@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 4280540297
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 027b4723cd2395d50dc68d8b2cb4324f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3432779acd6555d529cc4596fe61073b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/maho_window_05.obj
+- Assets/maho_window_02.obj
+- Assets/maho_window_09.obj
+- Assets/maho_window_deco_03.obj
+- Assets/maho_window_07.obj
+- Assets/maho_door_04.obj
+- Assets/maho_gate_01.obj
+- Assets/maho_window_03.obj
+- Assets/maho_window_12.obj
+- Assets/maho_window_08.obj
+- Assets/maho_window_13.obj
+- Assets/maho_window_10.obj
+- Assets/maho_window_deco_02.obj
+- Assets/maho_door_02.obj
+- Assets/maho_gate_02.obj
+- Assets/maho_door_05.obj
+- Assets/maho_door_01.obj
+- Assets/maho_roofwindow_01C.obj
+- Assets/maho_window_06.obj
+- Assets/maho_roofwindow_01B.obj
+- Assets/maho_roofwindow_01.obj
+- Assets/maho_gate_03.obj
+- Assets/maho_door_03.obj
+- Assets/maho_window_deco_01.obj
+- Assets/maho_window_11.obj
+- Assets/maho_door_06.obj
+- Assets/maho_window_01.obj
+- Assets/maho_window_04.obj
+Dependencies: []

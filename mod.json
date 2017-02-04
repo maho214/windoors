@@ -1,0 +1,8 @@
+{
+    "BaseDir": "",
+    "IsDevelopment": false,
+	"IsEnabled": true,
+    "Name": "Windoors",
+    "Project": "Custom Scenery.csproj",
+	"AssetBundleDir": "assetbundle"
+}

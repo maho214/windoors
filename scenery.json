@@ -1,0 +1,420 @@
+﻿{
+	"maho Window 01": {
+		"inGameName": "Window 1",
+		"category": "Maho/Windoors",
+		"model": "maho_window_01",
+		"type": "deco",
+		"price": 5.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#383322",
+			"color2": "#525993"
+		}
+	},
+	"maho Window 02": {
+		"inGameName": "Window 2",
+		"category": "Maho/Windoors",
+		"model": "maho_window_02",
+		"type": "deco",
+		"price": 6.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#938F70",
+			"color2": "#2E246A"
+		}
+	},
+	"maho Window 03": {
+		"inGameName": "Window 3",
+		"category": "Maho/Windoors",
+		"model": "maho_window_03",
+		"type": "deco",
+		"price": 8.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.5,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#A68F4A",
+			"color2": "#6A7C81"
+		}
+	},
+	"maho Window 04": {
+		"inGameName": "Window 4",
+		"category": "Maho/Windoors",
+		"model": "maho_window_04",
+		"type": "deco",
+		"price": 15.0,
+		"gridSubdivision": 4.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#77684F",
+			"color2": "#8A7272",
+			"color3": "#8F1F1F",
+			"color4": "#691919"
+		}
+	},
+	"maho Window 05": {
+		"inGameName": "Window 5",
+		"category": "Maho/Windoors",
+		"model": "maho_window_05",
+		"type": "deco",
+		"price": 8.0,
+		"gridSubdivision": 4.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#CD9C70",
+			"color2": "#9DBDC6"
+		}
+	},
+	"maho Window 06": {
+		"inGameName": "Window 6",
+		"category": "Maho/Windoors",
+		"model": "maho_window_06",
+		"type": "deco",
+		"price": 15.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#A8A394",
+			"color2": "#24515C"
+		}
+	},
+	"maho Window 07": {
+		"inGameName": "Window 7",
+		"category": "Maho/Windoors",
+		"model": "maho_window_07",
+		"type": "deco",
+		"price": 6.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.5,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#7E7E7E",
+			"color2": "#899352"
+		}
+	},
+	"maho Window 08": {
+		"inGameName": "Window 8",
+		"category": "Maho/Windoors",
+		"model": "maho_window_08",
+		"type": "deco",
+		"price": 3.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.5,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#E3E3E2",
+			"color2": "#4C4C4C"
+		}
+	},
+	"maho Window 09": {
+		"inGameName": "Window 9",
+		"category": "Maho/Windoors",
+		"model": "maho_window_09",
+		"type": "deco",
+		"price": 15.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.5,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#877B54",
+			"color2": "#8B3C3C",
+			"color3": "#564A4A"
+		}
+	},
+	"maho Window 10": {
+		"inGameName": "Window 10",
+		"category": "Maho/Windoors",
+		"model": "maho_window_10",
+		"type": "deco",
+		"price": 12.0,
+		"gridSubdivision": 4.0,
+		"heightDelta": 0.5,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#9F926C",
+			"color2": "#245C33"
+		}
+	},
+	"maho Window 11": {
+		"inGameName": "Window 11",
+		"category": "Maho/Windoors",
+		"model": "maho_window_11",
+		"type": "deco",
+		"price": 8.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#868463",
+			"color2": "#753030"
+		}
+	},
+	"maho Window 12": {
+		"inGameName": "Window 12",
+		"category": "Maho/Windoors",
+		"model": "maho_window_12",
+		"type": "deco",
+		"price": 15.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#ECD3A1",
+			"color2": "#A20000",
+			"color3": "#801C1D",
+			"color4": "#D99414"
+		}
+	},
+	"maho Window 13": {
+		"inGameName": "Window 13",
+		"category": "Maho/Windoors",
+		"model": "maho_window_13",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 4.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#A89F83",
+			"color2": "#245C33",
+			"color3": "#938864"
+		}
+	},
+	"maho Door 1": {
+		"inGameName": "Door 1",
+		"category": "Maho/Windoors",
+		"model": "maho_door_01",
+		"type": "deco",
+		"price": 4.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#4E4D4D",
+			"color2": "#C8DBE0"
+		}
+	},
+	"maho Door 2": {
+		"inGameName": "Door 2",
+		"category": "Maho/Windoors",
+		"model": "maho_door_02",
+		"type": "deco",
+		"price": 8.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#928D83",
+			"color2": "#A1B05C",
+			"color3": "#C8C8C8"
+		}
+	},
+	"maho Door 3": {
+		"inGameName": "Door 3",
+		"category": "Maho/Windoors",
+		"model": "maho_door_03",
+		"type": "deco",
+		"price": 6.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#DEC595",
+			"color2": "#5CB06B",
+			"color3": "#66A36C"
+		}
+	},
+	"maho Door 4": {
+		"inGameName": "Door 4",
+		"category": "Maho/Windoors",
+		"model": "maho_door_04",
+		"type": "deco",
+		"price": 8.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#A0906F",
+			"color2": "#AE6464",
+			"color3": "#44191A"
+		}
+	},
+	"maho Door 5": {
+		"inGameName": "Door 5",
+		"category": "Maho/Windoors",
+		"model": "maho_door_05",
+		"type": "deco",
+		"price": 6.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#85B581",
+			"color2": "#A75D3D"
+		}
+	},
+	"maho Door 6": {
+		"inGameName": "Door 6",
+		"category": "Maho/Windoors",
+		"model": "maho_door_06",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 2.0,
+		"heightDelta": 0.2,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#878787",
+			"color2": "#75563A"
+		}
+	},
+	"maho Gate 1": {
+		"inGameName": "Archway 1",
+		"category": "Maho/Windoors",
+		"model": "maho_gate_01",
+		"type": "deco",
+		"price": 25.0,
+		"gridSubdivision": 5.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6E5247",
+			"color2": "#AAAC8A",
+			"color3": "#9EA04E"
+		}
+	},
+	"maho Gate 2": {
+		"inGameName": "Archway 2",
+		"category": "Maho/Windoors",
+		"model": "maho_gate_02",
+		"type": "deco",
+		"price": 25.0,
+		"gridSubdivision": 5.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#6E5247",
+			"color2": "#8C9397",
+			"color3": "#AB674C"
+		}
+	},
+	"maho Gate 3": {
+		"inGameName": "Archway 3",
+		"category": "Maho/Windoors",
+		"model": "maho_gate_03",
+		"type": "deco",
+		"price": 25.0,
+		"gridSubdivision": 5.0,
+		"heightDelta": 0.1,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#C0AE88",
+			"color2": "#737F3C",
+			"color3": "#BC5858"
+		}
+	},
+	"maho Roof Window 1": {
+		"inGameName": "Roof Window 1",
+		"category": "Maho/Windoors",
+		"model": "maho_roofwindow_01",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#383838",
+			"color2": "#3B5554",
+			"color3": "#8B9F9D"
+		}
+	},
+	"maho Roof Window 1b": {
+		"inGameName": "Roof Window 1",
+		"category": "Maho/Windoors",
+		"model": "maho_roofwindow_01B",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#383838",
+			"color2": "#3B5554",
+			"color3": "#8B9F9D"
+		}
+	},
+	"maho Roof Window 1c": {
+		"inGameName": "Roof Window 1",
+		"category": "Maho/Windoors",
+		"model": "maho_roofwindow_01C",
+		"type": "deco",
+		"price": 10.0,
+		"gridSubdivision": 1.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#383838",
+			"color2": "#3B5554",
+			"color3": "#8B9F9D"
+		}
+	},
+	"maho Window Deco 1": {
+		"inGameName": "Window Deco 1",
+		"category": "Maho/Windoors",
+		"model": "maho_window_deco_01",
+		"type": "deco",
+		"price": 3.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#5F5F5F"
+		}
+	},
+	"maho Window Deco 2": {
+		"inGameName": "Window Deco 2",
+		"category": "Maho/Windoors",
+		"model": "maho_window_deco_02",
+		"type": "deco",
+		"price": 3.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#877468",
+			"color2": "#8B9334"
+		}
+	},
+	"maho Window Deco 3": {
+		"inGameName": "Window Deco 3",
+		"category": "Maho/Windoors",
+		"model": "maho_window_deco_03",
+		"type": "deco",
+		"price": 3.0,
+		"gridSubdivision": 2.0,
+		"snapCenter": false,
+		"recolorable": true,
+		"recolorableOptions": {
+			"color1": "#9e694b",
+			"color2": "#ccbdd0"
+		}
+	}
+}
